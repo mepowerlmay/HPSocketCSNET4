@@ -1,0 +1,5 @@
+D:\mepowerlmay\HPSocketCSNET4\HPSocketCSNET4\bin\Release\HPSocketCSNET4.dll
+D:\mepowerlmay\HPSocketCSNET4\HPSocketCSNET4\bin\Release\HPSocketCSNET4.pdb
+D:\mepowerlmay\HPSocketCSNET4\HPSocketCSNET4\obj\Release\HPSocketCSNET4.csproj.CoreCompileInputs.cache
+D:\mepowerlmay\HPSocketCSNET4\HPSocketCSNET4\obj\Release\HPSocketCSNET4.dll
+D:\mepowerlmay\HPSocketCSNET4\HPSocketCSNET4\obj\Release\HPSocketCSNET4.pdb
